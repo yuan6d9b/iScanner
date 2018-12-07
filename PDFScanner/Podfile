@@ -1,0 +1,8 @@
+platform :ios, '10.0'
+target 'PDFScanner' do
+pod 'MBProgressHUD', '~> 0.9.1'
+pod 'Masonry', '~> 1.1.0'
+pod 'pop', '~> 1.0.12'
+pod 'RMStore', '~> 0.7.1'
+pod 'OpenSSL-Universal', '~> 1.0.2.13'
+end
